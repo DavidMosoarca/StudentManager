@@ -1,0 +1,1 @@
+[Customer]-(Sign In), [Customer]-(Buy Products), (Buy Products)&gt;(Browse Products), (Buy Products)&gt;(Checkout), (Checkout)&lt;(Add New Credit Card)
